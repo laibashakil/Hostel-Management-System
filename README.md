@@ -1,5 +1,7 @@
 # Hostel-Management-System
-This is a C++ program that simulates a student accommodation system. It allows students to register, choose a room, and select additional services. The program also includes an admin login feature to view the hostel rules.
+This Hostel Management System is designed to manage and organize the hostel records of students. The system enables the hostel administration to keep track of students' registration information and assign them rooms based on their preferences. Additionally, the system allows the administration to keep track of the services provided to students like breakfast, dinner, gym, and more.
+
+The program utilizes object-oriented programming concepts and C++ programming language to create different classes, such as `student`, `admin`, `room`, and `services`, that are used to manage different functionalities of the system.
 
 # Installation
 - Clone the repository.
