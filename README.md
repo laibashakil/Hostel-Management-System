@@ -6,7 +6,7 @@ The program utilizes object-oriented programming concepts and C++ programming la
 # Installation
 - Clone the repository.
 - Compile the main.cpp file using a C++ compiler.
--Run the executable file generated after compilation.
+- Run the executable file generated after compilation.
 
 # Usage
 ## Student Registration
@@ -20,10 +20,7 @@ To register as a student, follow these steps:
 - Enter your contact number.
 
 ## Room Selection
-To select a room, follow these steps:
-
-- Choose between a single or shared room.
-- Enter the number of days you plan to stay.
+To select a room, choose between a single or shared room.
 
 ## Additional Services
 The following additional services are available:
